@@ -60,12 +60,10 @@
 
 /*End of code for header
 
-* Style the header with a grey background and some padding */
-
-/* Style the header links */
 
 
-/* Change the background color on mouse-over */
+/* Start of Footer code */
+
 .footer a:hover {
   color: #20c997;
   text-decoration: underline;
@@ -97,8 +95,7 @@
   align-items: center;
   text-align: center;
   bottom: 0;
-  width: 50%;
-  height: 30px;
+  width: 100%;
   background: black;
   margin-left:auto;
   margin-right:auto;
@@ -130,6 +127,8 @@ color: white;
 footer div {
   align-items: center;
   text-align: center;
+  background-color: black;
 
 
 }
+
