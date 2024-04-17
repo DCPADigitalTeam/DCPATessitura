@@ -27,6 +27,8 @@
 .header a.logo {
   font-size: 25px;
   font-weight: bold;
+  width: 224px;
+  height: 63px;
 }
 
 /* Change the background color on mouse-over */
@@ -105,7 +107,7 @@
 .footer a {
   float: center;
   text-align: center;
-  color: #20c997;
+  color: #79c79A;
   text-align: center;
   text-decoration: white;
   padding: 12px;
